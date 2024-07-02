@@ -2,8 +2,8 @@
 
 ## User details
 
-GitHub username: <github_username>
-Started Git Academy: 20XX-XX-XX
+- GitHub username: <github_username>
+- Started Git Academy: 20XX-XX-XX
 
 ## Stage 1
 
@@ -28,4 +28,4 @@ Started Git Academy: 20XX-XX-XX
 
 ### Updating files (adding and committing)
 
-- [ ] First update of the git academy log with your achievements!
+- [ ] First updates of the git academy log with your achievements!
