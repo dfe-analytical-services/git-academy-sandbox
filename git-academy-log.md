@@ -14,8 +14,8 @@ Started Git Academy: 20XX-XX-XX
 ### Creating branches
 
 - [ ] Create a new branch in GitHub (<github_username>_main)
-- [ ] Create a new branch in R-Studio (<github_username>_rstudio_task_1)
-- [ ] Create a new branch in Bash (<github_username>_git-bash_task_1)
+- [ ] Create a new branch in R-Studio (<github_username>_rstudio_stage_1.1)
+- [ ] Create a new branch in Bash (<github_username>_git-bash_stage_1.1)
 
 ### Navigating between branches and syncing between the remote and local
 
