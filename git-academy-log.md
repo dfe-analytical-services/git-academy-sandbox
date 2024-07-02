@@ -29,3 +29,17 @@
 ### Updating files (adding and committing)
 
 - [ ] First updates of the git academy log with your achievements!
+
+### Merging and the art of the pull request
+
+- [ ] Create a pull request on GitHub
+- [ ] Solve merge conflict 1
+- [ ] Solve merge conflict 2
+- [ ] Solve merge conflict 3
+
+### Stage 1 bonus topics
+
+- [ ] Run `renv::restore()`
+- [ ] Run `renv::update()`
+- [ ] Run `renv::snapshot()`
+      
