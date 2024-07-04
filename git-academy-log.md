@@ -2,7 +2,7 @@
 
 ## Instructions
 
-This sandbox repo and logbook are intended for use with the DfE Git Academy repository. As you work through the training materials from Git Academy, tick off the steps below (by replacing the " " with an "x" in the relavent brackets) to track your progress, e.g. 
+This sandbox repo and logbook are intended for use with the DfE Git Academy repository. As you work through the training materials from Git Academy, tick off the steps below (by replacing the " " with an "x" in the relevant brackets) to track your progress, e.g. 
 
 - [x] I have read to this point in the instructions
 
