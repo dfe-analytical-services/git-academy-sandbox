@@ -15,7 +15,7 @@ This sandbox repo and logbook are intended for use with the DfE Git Academy repo
 
 ### Cloning an existing repository
 
-- [x] Clone git-academy-sandbox
+- [ ] Clone git-academy-sandbox
 
 ### Creating branches
 
