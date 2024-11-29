@@ -1,4 +1,4 @@
-# Git Academy logbook
+# Git basics refresher logbook
 
 ## Instructions
 
@@ -11,41 +11,30 @@ This sandbox repo and logbook are intended for use with the DfE Git Academy repo
 - GitHub username: <github_username>
 - Started Git Academy: 20XX-XX-XX
 
-## Stage 1
-
-### Cloning an existing repository
+## Cloning a repository
 
 - [ ] Clone git-academy-sandbox
 
-### Creating branches
+## Making a new branch
 
 - [ ] Create a new branch in GitHub (<github_username>_main)
-- [ ] Create a new branch in R-Studio (<github_username>_rstudio_stage_1)
-- [ ] Create a new branch in Bash (<github_username>_git-bash_stage_1)
 
-### Navigating between branches and syncing between the remote and local
+## Recording changes
 
-- [ ] Switch branches in GitHub
-- [ ] Pull using the R-Studio GUI
-- [ ] Switch branches using the R-Studio GUI
-- [ ] Pull using Bash
-- [ ] Switch branches using Bash
-- [ ] Push using Bash
+- [ ] Edit logbook to add x to completed tasks (including this one!)
+- [ ] Stage (aka add) the logbook
+- [ ] Committed the changes to the Git history
 
-### Updating files (adding and committing)
+## Syncing changes
 
-- [ ] First updates of the git academy log with your achievements!
+- [ ] Push changes to GitHub
+- [ ] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
+- [ ] Pull those changes to your local copy
 
-### Merging and the art of the pull request
+## Merging and the art of the pull request
 
-- [ ] Create a pull request on GitHub
-- [ ] Solve merge conflict 1
-- [ ] Solve merge conflict 2
-- [ ] Solve merge conflict 3
+- [ ] Create branch <github_username>_label<1/2>
+- [ ] Create a pull request on GitHub between <github_username>_label1 and <github_username>_label2
+- [ ] Solve merge conflict
 
-### Stage 1 bonus topics
-
-- [ ] Run `renv::restore()`
-- [ ] Run `renv::update()`
-- [ ] Run `renv::snapshot()`
       
