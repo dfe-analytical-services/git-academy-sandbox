@@ -25,11 +25,24 @@ This sandbox repo and logbook are intended for use with the DfE Git Academy repo
 - [ ] Stage (aka add) the logbook
 - [ ] Committed the changes to the Git history
 
-## Syncing changes
+## Viewing the history locally
+
+- [ ] Viewed the history for <github_username>_main
+
+## Syncing changes to GitHub
 
 - [ ] Push changes to GitHub
+
+## Exploring a repository on GitHub
+
+- [ ] View the different branches available
+- [ ] View the "code" for <github_username>_main
+- [ ] View the history for <github_username>_main
 - [ ] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
-- [ ] Pull those changes to your local copy
+
+## Syncing changes from GitHub
+
+- [ ] Pull the above changes to your local copy
 
 ## Merging and the art of the pull request
 
