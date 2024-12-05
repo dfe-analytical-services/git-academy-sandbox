@@ -19,8 +19,8 @@ This sandbox repo and logbook are intended for use with the DfE Git Academy repo
 
 ### Creating branches
 
-- [ ] Create a new branch in GitHub (<github_username>_main)
-- [ ] Create a new branch in R-Studio (<github_username>_rstudio_stage_1)
+- [X] Create a new branch in GitHub (<github_username>_main)
+- [X] Create a new branch in R-Studio (<github_username>_rstudio_stage_1)
 - [ ] Create a new branch in Bash (<github_username>_git-bash_stage_1)
 
 ### Navigating between branches and syncing between the remote and local
