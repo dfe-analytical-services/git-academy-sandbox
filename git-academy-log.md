@@ -13,32 +13,32 @@ This sandbox repo and logbook are intended for use with the DfE Git Academy repo
 
 ## Cloning a repository
 
-- [ ] Clone git-academy-sandbox
+- [X] Clone git-academy-sandbox
 
 ## Making a new branch
 
-- [ ] Create a new branch in GitHub (<github_username>_main)
+- [X] Create a new branch in GitHub (<github_username>_main)
 
 ## Recording changes
 
-- [ ] Edit logbook to add x to completed tasks (including this one!)
-- [ ] Stage (aka add) the logbook
-- [ ] Committed the changes to the Git history
+- [X] Edit logbook to add x to completed tasks (including this one!)
+- [X] Stage (aka add) the logbook
+- [X] Committed the changes to the Git history
 
 ## Viewing the history locally
 
-- [ ] Viewed the history for <github_username>_main
+- [X] Viewed the history for <github_username>_main
 
 ## Syncing changes to GitHub
 
-- [ ] Push changes to GitHub
+- [X] Push changes to GitHub
 
 ## Exploring a repository on GitHub
 
-- [ ] View the different branches available
-- [ ] View the "code" for <github_username>_main
-- [ ] View the history for <github_username>_main
-- [ ] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
+- [X] View the different branches available
+- [X] View the "code" for <github_username>_main
+- [X] View the history for <github_username>_main
+- [X] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
 
 ## Syncing changes from GitHub
 
