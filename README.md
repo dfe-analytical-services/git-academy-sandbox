@@ -10,5 +10,7 @@ When using the sandbox for L&D, please start by creating your own personal main 
 git checkout -b rmbielby/main
 ```
 
+You can also view examples of this naming convention, and create a new branch, on the [branches page for this repository](https://github.com/dfe-analytical-services/git-academy-sandbox/branches).
+
 All subsequent work should be performed on branches based on the same naming convention. Any branches not conforming to this convention will be removed during periodic clean ups.
 
