@@ -17,7 +17,7 @@ This sandbox repo and logbook are intended for use with the DfE Git Academy repo
 
 ## Making a new branch
 
-- [ ] Create a new branch in GitHub (<github_username>_main)
+- [ ] Create a new branch in GitHub (<github_username>/main)
 
 ## Recording changes
 
@@ -27,7 +27,7 @@ This sandbox repo and logbook are intended for use with the DfE Git Academy repo
 
 ## Viewing the history locally
 
-- [ ] Viewed the history for <github_username>_main
+- [ ] Viewed the history for <github_username>/main
 
 ## Syncing changes to GitHub
 
@@ -36,8 +36,8 @@ This sandbox repo and logbook are intended for use with the DfE Git Academy repo
 ## Exploring a repository on GitHub
 
 - [ ] View the different branches available
-- [ ] View the "code" for <github_username>_main
-- [ ] View the history for <github_username>_main
+- [ ] View the "code" for <github_username>/main
+- [ ] View the history for <github_username>/main
 - [ ] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
 
 ## Syncing changes from GitHub
@@ -46,10 +46,10 @@ This sandbox repo and logbook are intended for use with the DfE Git Academy repo
 
 ## Merging and the art of the pull request
 
-- [ ] Create branch <github_username>_label<1/2>
-- [ ] Create a pull request on GitHub between <github_username>_label1 and <github_username>_main
+- [ ] Create branch <github_username>/label<1/2>
+- [ ] Create a pull request on GitHub between <github_username>/label1 and <github_username>/main
 - [ ] Complete pull request
-- [ ] Create a pull request on GitHub between <github_username>_label2 and <github_username>_main
+- [ ] Create a pull request on GitHub between <github_username>/label2 and <github_username>/main
 - [ ] Investigate the merge conflict and fix it!
 
       
