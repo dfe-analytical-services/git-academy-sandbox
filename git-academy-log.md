@@ -46,8 +46,8 @@ This sandbox repo and logbook are intended for use with the DfE Git Academy repo
 
 ## Merging and the art of the pull request
 
-- [ ] Create branch <github_username>_label<1/2>
-- [ ] Create a pull request on GitHub between <github_username>_label1 and <github_username>_main
+- [X] Create branch <github_username>/development
+- [ ] Create a pull request on GitHub between <github_username>/development and <github_username>_main
 - [ ] Complete pull request
 - [ ] Create a pull request on GitHub between <github_username>_label2 and <github_username>_main
 - [ ] Investigate the merge conflict and fix it!
