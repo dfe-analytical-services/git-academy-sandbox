@@ -8,20 +8,20 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ## User details
 
-- GitHub username: <github_username>
-- Started Git Academy: 20XX-XX-XX
+- GitHub username: pmarlowe
+- Started Git Academy: 2025-02-18
 
 ## Cloning a repository
 
-- [ ] Clone git-academy-sandbox
+- [x] Clone git-academy-sandbox
 
 ## Making a new branch
 
-- [ ] Create a new branch in GitHub (<github_username>/main)
+- [x] Create a new branch in GitHub (<github_username>/main)
 
 ## Recording changes
 
-- [ ] Edit logbook to add x to completed tasks (including this one!)
+- [x] Edit logbook to add x to completed tasks (including this one!)
 - [ ] Stage (aka add) the logbook
 - [ ] Committed the changes to the Git history
 
