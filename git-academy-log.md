@@ -23,9 +23,9 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ### Recording changes (add and commit)
 
-- [ ] Edit logbook to mark completed tasks (including this one!)
-- [ ] Stage (aka add) the logbook
-- [ ] Committed the changes to the Git history
+- [x] Edit logbook to mark completed tasks (including this one!)
+- [x] Stage (aka add) the logbook
+- [x] Committed the changes to the Git history
 
 ### Viewing the history locally
 
@@ -33,7 +33,7 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ### Syncing to the remote (push)
 
-- [ ] Push changes to GitHub
+- [x] Push changes to GitHub
 
 ### Making more branches
 
