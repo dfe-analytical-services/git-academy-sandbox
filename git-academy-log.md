@@ -23,38 +23,38 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ### Recording changes (add and commit)
 
-- [ ] Edit logbook to mark completed tasks (including this one!)
-- [ ] Stage (aka add) the logbook
-- [ ] Committed the changes to the Git history
+- [x] Edit logbook to mark completed tasks (including this one!)
+- [x] Stage (aka add) the logbook
+- [x] Committed the changes to the Git history
 
 ### Viewing the history locally
 
-- [ ] Viewed the history for <github_username>/main
+- [x] Viewed the history for <github_username>/main
 
 ### Syncing to the remote (push)
 
-- [ ] Push changes to GitHub
+- [x] Push changes to GitHub
 
 ### Making more branches
 
-- [ ] Create a second branch (<github_username>/development)
-- [ ] Edit logbook mark completed tasks (including this one!)
-- [ ] Stage (add), commit and push the updated logbook
+- [x] Create a second branch (<github_username>/development)
+- [x] Edit logbook mark completed tasks (including this one!)
+- [x] Stage (add), commit and push the updated logbook
 
 ### Moving between branches
 
-- [ ] Switch to `main`
-- [ ] Switch to `<github_username>/main`
-- [ ] Switch to `<github_username>/development`
+- [x] Switch to `main`
+- [x] Switch to `<github_username>/main`
+- [x] Switch to `<github_username>/development`
 
 ## GitHub DevOps basics refresher
 
 ### Navigating branches
 
-- [ ] View the different branches available
-- [ ] View the "code" for <github_username>/main
-- [ ] View the history for <github_username>/main
-- [ ] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
+- [x] View the different branches available
+- [x] View the "code" for <github_username>/main
+- [x] View the history for <github_username>/main
+- [x] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
 
 ### Viewing files
 
