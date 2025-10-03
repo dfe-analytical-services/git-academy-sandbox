@@ -43,9 +43,9 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ### Moving between branches
 
-- [ ] Switch to `main`
-- [ ] Switch to `<github_username>/main`
-- [ ] Switch to `<github_username>/development`
+- [x] Switch to `main`
+- [x] Switch to `<github_username>/main`
+- [x] Switch to `<github_username>/development`
 
 ## GitHub DevOps basics refresher
 
