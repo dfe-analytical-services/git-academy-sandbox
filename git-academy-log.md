@@ -15,11 +15,11 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ### Cloning a repository
 
-- [ ] Clone git-academy-sandbox
+- [x] Clone git-academy-sandbox
 
 ### Making a new branch
 
-- [ ] Create a new branch (<github_username>/main)
+- [x] Create a new branch (<github_username>/main)
 
 ### Recording changes (add and commit)
 
