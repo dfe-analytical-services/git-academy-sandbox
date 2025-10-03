@@ -51,10 +51,10 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ### Navigating branches
 
-- [ ] View the different branches available
-- [ ] View the "code" for <github_username>/main
-- [ ] View the history for <github_username>/main
-- [ ] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
+- [x] View the different branches available
+- [x] View the "code" for <github_username>/main
+- [x] View the history for <github_username>/main
+- [x] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
 
 ### Viewing files
 
