@@ -64,10 +64,10 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ### Merging and the art of the pull request
 
-- [ ] Create branch <github_username>/label<1/2>
-- [ ] Create a pull request on GitHub between <github_username>/label1 and <github_username>/main
-- [ ] Complete pull request
-- [ ] Create a pull request on GitHub between <github_username>/label2 and <github_username>/main
-- [ ] Investigate the merge conflict and fix it!
+- [X] Create branch <github_username>/label<1/2>
+- [X] Create a pull request on GitHub between <github_username>/label1 and <github_username>/main
+- [X] Complete pull request
+- [X] Create a pull request on GitHub between <github_username>/label2 and <github_username>/main
+- [X] Investigate the merge conflict and fix it!
 
       
