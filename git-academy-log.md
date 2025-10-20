@@ -37,24 +37,24 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ### Making more branches
 
-- [ ] Create a second branch (<github_username>/development)
-- [ ] Edit logbook mark completed tasks (including this one!)
-- [ ] Stage (add), commit and push the updated logbook
+- [X] Create a second branch (<github_username>/development)
+- [X] Edit logbook mark completed tasks (including this one!)
+- [X] Stage (add), commit and push the updated logbook
 
 ### Moving between branches
 
-- [ ] Switch to `main`
-- [ ] Switch to `<github_username>/main`
-- [ ] Switch to `<github_username>/development`
+- [X] Switch to `main`
+- [X] Switch to `<github_username>/main`
+- [X] Switch to `<github_username>/development`
 
 ## GitHub DevOps basics refresher
 
 ### Navigating branches
 
-- [ ] View the different branches available
-- [ ] View the "code" for <github_username>/main
-- [ ] View the history for <github_username>/main
-- [ ] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
+- [X] View the different branches available
+- [X] View the "code" for <github_username>/main
+- [X] View the history for <github_username>/main
+- [X] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
 
 ### Viewing files
 
