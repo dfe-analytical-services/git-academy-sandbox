@@ -37,9 +37,9 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ### Making more branches
 
-- [ ] Create a second branch (<github_username>/development)
-- [ ] Edit logbook mark completed tasks (including this one!)
-- [ ] Stage (add), commit and push the updated logbook
+- [X] Create a second branch (<github_username>/development)
+- [X] Edit logbook mark completed tasks (including this one!)
+- [X] Stage (add), commit and push the updated logbook
 
 ### Moving between branches
 
