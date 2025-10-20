@@ -24,16 +24,16 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 ### Recording changes (add and commit)
 
 - [X] Edit logbook to mark completed tasks (including this one!)
-- [ ] Stage (aka add) the logbook
-- [ ] Committed the changes to the Git history
+- [X] Stage (aka add) the logbook
+- [X] Committed the changes to the Git history
 
 ### Viewing the history locally
 
-- [ ] Viewed the history for <github_username>/main
+- [X] Viewed the history for <github_username>/main
 
 ### Syncing to the remote (push)
 
-- [ ] Push changes to GitHub
+- [X] Push changes to GitHub
 
 ### Making more branches
 
