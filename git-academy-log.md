@@ -24,8 +24,8 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 ### Recording changes (add and commit)
 
 - [ x] Edit logbook to mark completed tasks (including this one!)
-- [ ] Stage (aka add) the logbook
-- [ ] Committed the changes to the Git history
+- [ x] Stage (aka add) the logbook
+- [ x] Committed the changes to the Git history
 
 ### Viewing the history locally
 
