@@ -33,19 +33,19 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ### Syncing to the remote (push)
 
-- [ ] Push changes to GitHub
+- [ x] Push changes to GitHub
 
 ### Making more branches
 
-- [ ] Create a second branch (<github_username>/development)
-- [ ] Edit logbook mark completed tasks (including this one!)
-- [ ] Stage (add), commit and push the updated logbook
+- [x ] Create a second branch (<github_username>/development)
+- [ x] Edit logbook mark completed tasks (including this one!)
+- [x ] Stage (add), commit and push the updated logbook
 
 ### Moving between branches
 
-- [ ] Switch to `main`
-- [ ] Switch to `<github_username>/main`
-- [ ] Switch to `<github_username>/development`
+- [x ] Switch to `main`
+- [ x] Switch to `<github_username>/main`
+- [ x] Switch to `<github_username>/development`
 
 ## GitHub DevOps basics refresher
 
