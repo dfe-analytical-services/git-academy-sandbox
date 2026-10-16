@@ -2,7 +2,7 @@
 
 ## Instructions
 
-This sandbox repo and logbook are intended for use with the DfE Git Academy repository. As you work through the training materials from Git Academy, tick off the steps below (by replacing the " " with an "x" in the relevant brackets) to track your progress, e.g. 
+This sandbox repo and logbook are intended for use with the [DfE Git Academy materials](https://dfe-analytical-services.github.io/git-academy/). As you work through the training materials from Git Academy, tick off the steps below (by replacing the " " with an "x" in the relevant brackets) to track your progress, e.g. 
 
 - [x] I have read to this point in the instructions
 
@@ -11,45 +11,63 @@ This sandbox repo and logbook are intended for use with the DfE Git Academy repo
 - GitHub username: <github_username>
 - Started Git Academy: 20XX-XX-XX
 
-## Cloning a repository
+## Git basics refresher
 
-- [X] Clone git-academy-sandbox
+### Cloning a repository
 
-## Making a new branch
+- [ x ] Clone git-academy-sandbox
 
-- [X] Create a new branch in GitHub (<github_username>_main)
+### Making a new branch
 
-## Recording changes
+- [ x ] Create a new branch (<github_username>/main)
 
-- [X] Edit logbook to add x to completed tasks (including this one!)
-- [X] Stage (aka add) the logbook
-- [X] Committed the changes to the Git history
+### Recording changes (add and commit)
 
-## Viewing the history locally
+- [ ] Edit logbook to mark completed tasks (including this one!)
+- [ ] Stage (aka add) the logbook
+- [ ] Committed the changes to the Git history
 
-- [X] Viewed the history for <github_username>_main
+### Viewing the history locally
 
-## Syncing changes to GitHub
+- [ ] Viewed the history for <github_username>/main
+
+### Syncing to the remote (push)
 
 - [X] Push changes to GitHub
 
-## Exploring a repository on GitHub
+### Making more branches
 
-- [X] View the different branches available
-- [X] View the "code" for <github_username>_main
-- [X] View the history for <github_username>_main
-- [X] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
+- [ ] Create a second branch (<github_username>/development)
+- [ ] Edit logbook mark completed tasks (including this one!)
+- [ ] Stage (add), commit and push the updated logbook
 
-## Syncing changes from GitHub
+### Moving between branches
 
-- [ ] Pull the above changes to your local copy
+- [ ] Switch to `main`
+- [ ] Switch to `<github_username>/main`
+- [ ] Switch to `<github_username>/development`
 
-## Merging and the art of the pull request
+## GitHub DevOps basics refresher
 
-- [ ] Create branch <github_username>_label<1/2>
-- [ ] Create a pull request on GitHub between <github_username>_label1 and <github_username>_main
+### Navigating branches
+
+- [ x ] View the different branches available
+- [ x ] View the "code" for <github_username>/main
+- [ x ] View the history for <github_username>/main
+- [ x ] **On GitHub**, edit the logbook and make a commit to record these two tasks completed
+
+### Viewing files
+
+### Editing files
+
+### Viewing the history
+
+### Merging and the art of the pull request
+
+- [ ] Create branch <github_username>/label<1/2>
+- [ ] Create a pull request on GitHub between <github_username>/label1 and <github_username>/main
 - [ ] Complete pull request
-- [ ] Create a pull request on GitHub between <github_username>_label2 and <github_username>_main
+- [ ] Create a pull request on GitHub between <github_username>/label2 and <github_username>/main
 - [ ] Investigate the merge conflict and fix it!
 
       
