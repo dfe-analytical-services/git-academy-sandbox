@@ -33,7 +33,7 @@ This sandbox repo and logbook are intended for use with the [DfE Git Academy mat
 
 ### Syncing to the remote (push)
 
-- [ ] Push changes to GitHub
+- [X] Push changes to GitHub
 
 ### Making more branches
 
